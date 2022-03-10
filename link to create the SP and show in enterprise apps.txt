@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/answers/questions/264113/programatically-add-enterprise-app-with-graph-api.html
+
+since creating SP doesn't show in the Enterprise App, the filter for enterprise app is looking for a specific tag WindowsAzureActiveDirectoryIntegratedApp
+
+"tags": ["WindowsAzureActiveDirectoryIntegratedApp"]
+
